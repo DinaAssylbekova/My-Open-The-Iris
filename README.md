@@ -1,0 +1,1 @@
+The goal was to build multiple different models from different algorithms. The task is to summarize, visualize and evaluate some algorithms from the Iris dataset.
